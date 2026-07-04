@@ -1,6 +1,6 @@
-## Hi, I'm Eric 👋🏻
+## Hi 👋🏻
 
-I’m a computational analytical chemist and software developer specializing in high-throughput MS workflows, laboratory automation, and data science.
+I’m Eric, a computational analytical chemist and software developer specializing in high-throughput MS workflows, laboratory automation, and data science.
 
 I'm currently working on MassFlow, a config-first open-source tool designed for annotation of complex tandem-MS data.
 
