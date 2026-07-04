@@ -1,4 +1,4 @@
-## Hi 👋🏻
+## Hi! 👋🏻
 
 I’m Eric, a computational analytical chemist and software developer specializing in high-throughput MS workflows, laboratory automation, and data science.
 
