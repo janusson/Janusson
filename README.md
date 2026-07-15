@@ -1,10 +1,8 @@
-## Hi! 👋🏻
+## 👋🏻
 
-I’m Eric, a computational analytical chemist specializing in high-throughput MS workflows, laboratory automation, and data science.
+I'm a chemist specializing in mass spectrometry automation and analytics. Currently working on [MassFlow](https://github.com/janusson/MassFlow), an open-source tool for tandem-MS data annotation.
 
-I'm currently working on MassFlow, a config-first open-source tool designed for tandem-MS data annotation.
-
-View my recent publications and CV at [ericjanusson.ca](ericjanusson.ca).
+You can reach me using the contact form on my [personal website](ericjanusson.ca).
 
 <!--
 **janusson/Janusson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
