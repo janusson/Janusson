@@ -13,4 +13,4 @@ My background spans high-resolution mass spectrometry (QTOF, TWIMS, Orbitrap, LC
 
 I'm interested in computational mass spectrometry, data analytics, open data standards, and building software that makes analytical chemistry more accessible.
 
-📬 Get in touch, or find more of my work: **[ericjanusson.ca](ericjanusson.ca)**
+📬 Get in touch, or find more of my work: **[ericjanusson.ca](https://ericjanusson.ca)**
