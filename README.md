@@ -6,11 +6,11 @@ I enjoy turning messy experimental data into reliable, robust tools that help sc
 
 ## Current projects
 
-* 🧪 **MassFlow** - vendor-agnostic MS/MS annotation, spectral libraries, and molecular networking
-* 📈 **PySharpe** - quantitative portfolio optimization built with the scientific Python ecosystem
+* 🧪 **[MassFlow](https://github.com/janusson/MassFlow)** - vendor-agnostic MS/MS annotation, spectral library management, and molecular networking
+* 📈 **[PySharpe](https://github.com/janusson/PySharpe)** - quantitative portfolio optimization web application built within a scientific Python ecosystem
 
-My background spans high-resolution mass spectrometry (Orbitrap, QTOF, TWIMS, LC-MS/MS, GC-MS, ICP-MS), data engineering, and analytical method development in both academic and industrial laboratories.
+My background spans high-resolution mass spectrometry (QTOF, TWIMS, Orbitrap, LC-MS/MS, GC-MS, ICP-MS), data engineering, and analytical method development in both academic and industrial laboratories.
 
-I'm interested in reproducible research, scientific software, open data standards, and building tools that make analytical chemistry more accessible.
+I'm interested in computational mass spectrometry, data analytics, open data standards, and building software that makes analytical chemistry more accessible.
 
-📬 Get in touch, or find more of my work: **ericjanusson.ca**
+📬 Get in touch, or find more of my work: **[ericjanusson.ca](ericjanusson.ca)**
