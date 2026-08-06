@@ -2,7 +2,7 @@
 
 I am a **PhD analytical chemist** building open-source software for **mass spectrometry**, **scientific computing**, and **laboratory automation**.
 
-I enjoy turning messy experimental data into reliable, reproducible tools that help scientists do their best work.
+I enjoy turning messy experimental data into reliable, robust tools that help scientists do their best work.
 
 ## Current projects
 
