@@ -2,7 +2,7 @@
 
 I am a **PhD analytical chemist** building open-source software for **mass spectrometry**, **scientific computing**, and **laboratory automation**.
 
-I enjoy turning messy experimental data into reliable, robust tools that help scientists do their best work.
+I enjoy turning messy experimental data into reliable, robust tools that helps scientists.
 
 ## Current projects
 
@@ -11,6 +11,7 @@ I enjoy turning messy experimental data into reliable, robust tools that help sc
 
 My background spans high-resolution mass spectrometry (QTOF, TWIMS, Orbitrap, LC-MS/MS, GC-MS, ICP-MS), data engineering, and analytical method development in both academic and industrial laboratories.
 
-I'm interested in computational mass spectrometry, data analytics, open data standards, and building software that makes analytical chemistry more accessible.
+I'm interested in computational mass spectrometry, data analytics, open data standards, and building open-source software that makes complex data easier to understand.
 
-📬 Get in touch, or find more of my work: **[ericjanusson.ca](https://ericjanusson.ca)**
+👨🏻‍💻 More about my work: **[ericjanusson.ca](https://ericjanusson.ca)**
+📬 [Email me](mailto:eric@ericjanusson.ca)
