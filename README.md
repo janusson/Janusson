@@ -1,5 +1,3 @@
-# Hello! 👋🏻 I’m Eric.
-
 I am a **PhD analytical chemist** building open-source software for **mass spectrometry**, **scientific computing**, and **laboratory automation**.
 
 I enjoy turning messy experimental data into reliable, robust tools that helps scientists.
