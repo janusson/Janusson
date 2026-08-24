@@ -1,4 +1,4 @@
-I am an analytical chemist working on open-source software for computational mass spectrometry. My background in academic or industrial labs mostly involves using some kind of mass spectrometry to understand complex mixtures.
+I’m an analytical chemist and mass spectrometrist. I measure chemicals to understand and improve reactions.
 
 # Current projects
 
