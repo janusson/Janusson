@@ -1,4 +1,4 @@
-I’m an analytical chemist and computational mass spectrometrist. I measure chemicals to understand and improve reactions.
+I’m an analytical chemist and computational mass spectrometrist. My work involves measuring chemicals to improve how reactions perform.
 
 # Current projects
 
