@@ -3,7 +3,7 @@ I’m an analytical chemist and computational mass spectrometrist. My work invol
 # Current projects
 
 * 🧪 **[MassFlow](https://github.com/janusson/MassFlow)** - Vendor-agnostic tandem-mass spectrometry (MS/MS) data annotation, spectral library management, and molecular networking
-* 🤖 **[MSMCP](https://github.com/janusson/MSMCP)** - Model Context Protocol (MCP) server to integrate mass spectrometry (MS) data into AI workflows
+* 🤖 **[MSMCP](https://msmcp.dev)** - Local Model Context Protocol (MCP) infrastructure for mass spectrometry inspection, quality control, and spectral library search. [Source](https://github.com/janusson/MSMCP)
 
 
 * 👨🏻‍💻 More about my work: **[ericjanusson.ca](https://ericjanusson.ca)**
